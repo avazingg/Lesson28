@@ -16,7 +16,8 @@
  3️
  ![image](https://github.com/user-attachments/assets/f2d17043-2270-4e0d-a40a-01e42e4215d5)
 ![image](https://github.com/user-attachments/assets/2a42b728-07c2-4385-9b30-697da9b35e4a)
-![image](https://github.com/user-attachments/assets/48d21f7e-331b-49bd-a0a3-e8f27ddddc3c)
+![image](https://github.com/user-attachments/assets/44492587-cd6a-44f4-803d-914e9d12ef1e)
+
 
 ✅Docker build -t is used to create a Docker image from a Dockerfile. The -t (tag) flag allows you to set a name for the image
 
